@@ -7,7 +7,6 @@ This is the companion repo to: [Complete Terraform Course - From BEGINNER to PRO
 ## 01 - Evolution of Cloud + Infrastructure as Code
 
 High level overview of the evolution of cloud computing and infrastructure as code.
-
 This module does not have any corresponding code.
 
 ## 02 - Overview + Setup
